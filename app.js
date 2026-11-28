@@ -1,5 +1,5 @@
-const _u = 'https://wrbzsnhguxpyoyawmhvu.supabase.co';
-const _k = 'sb_publishable_Q47MZgDi10ATD4RagoP2XQ_4PT7_8ps';
+const _u = 'https://qsunggfjeuexjenusxpb.supabase.co';
+const _k = 'sb_publishable_inQHU8anxLvyQpCK1lzLnA_wGn3qswJ';
 const db = window.supabase.createClient(_u, _k);
 
 const K_TX = 'shop_app_tx_v2';
